@@ -173,8 +173,8 @@ span{
 {
     .container
     {
-        width: 290px;
-        height: 62vh;
+        width: 310px;
+        height: 61vh;
         border-radius: 10px;
         box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.4);
     }
@@ -201,7 +201,7 @@ span{
     }
 
     footer p{
-        padding-left: 20px;
+        padding-left: 30px;
     }
    
 
