@@ -169,12 +169,12 @@ span{
     color: rgb(219, 215, 215);
 }
 
-@media(min-width: 1000px)
+@media(min-width: 1400px)
 {
     .container
     {
-        width: 240px;
-        height: 66vh;
+        width: 280px;
+        height: 62vh;
         border-radius: 10px;
         box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.4);
     }
