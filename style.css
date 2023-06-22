@@ -16,8 +16,8 @@ body{
 .container
 {
     background-color: hsl(216, 50%, 16%);
-    height: 66vh;
-    width: 240px;
+    height: 64vh;
+    width: 270px;
     margin: 0 30px;
     border-radius: 13px;
     justify-content: center;    
@@ -169,11 +169,11 @@ span{
     color: rgb(219, 215, 215);
 }
 
-@media(min-width: 1400px)
+@media(min-width: 1000px)
 {
     .container
     {
-        width: 280px;
+        width: 290px;
         height: 62vh;
         border-radius: 10px;
         box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.4);
@@ -195,6 +195,14 @@ span{
     .paragraph2 p{
         padding-left: 19px;
     }
+    .h-icon{
+        height: 3vh;
+        margin-left: 30px;
+    }
 
+    footer p{
+        padding-left: 20px;
+    }
    
+
 }
