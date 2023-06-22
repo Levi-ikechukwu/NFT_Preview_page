@@ -169,7 +169,7 @@ span{
     color: rgb(219, 215, 215);
 }
 
-@media(min-width: 1000px)
+@media(min-width: 700px)
 {
     .container
     {
